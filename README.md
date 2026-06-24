@@ -77,4 +77,7 @@ mvnw.cmd spring-boot:run
 
 ## Author
 
+By: Innocent Joseph
+gitHub: https://github.com/innocent-Mat/wells-fargo-task-2-flow .git
+
 Developed as part of the Wells Fargo JPA data modeling assignment.
